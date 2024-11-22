@@ -6,7 +6,7 @@ export const Navbar = () => {
 
     return (
         <nav className="navb">
-            <a href="/Portfolio" className="btn">Portfolio</a>
+            <a href="https://sujaych1.github.io/Portfolio/" className="btn">Portfolio</a>
             <div 
                 className="menu-toggle" 
                 onClick={() => setIsMenuOpen(!isMenuOpen)}
